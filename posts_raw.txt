@@ -1,0 +1,92 @@
+RTI International
+4.1
+Data Scientist
+Durham, NC
+$69K - $118K (Glassdoor est.)
+More
+The Center for Data Science at RTI International, one of the nation’s largest independent, nonprofit scientific research organizations, is seeking a Data Scientist with skills in advanced analytics (predictive modeling, machine learning, AI, microsimulation modeling, social network analysis, computer vision, text analytics, and natural language processing), modern software development for data science applications, and data visualization to work on projects in a variety of research domains, including public health, bioinformatics, criminal and social justice, public safety, survey science, engineering, education, and the environment. RTI’s mission is to improve the human condition, and our Center’s mission is to apply data science for social good. A successful candidate will work with a thriving team of 30+ data scientists, software developers, visual designers, and subject matter experts across RTI, solving important national problems, improving our local communities, and transforming research.
+
+
+
+Responsibilities
+Collaborate with a team of data scientists, software developers, visual designers, and subject matter experts to solve end-to-end problems using data science approaches, techniques, and methods Participate in activities related to accessing, collecting, cleaning, storing, organizing, and integrating data, and creating data pipelines Participate in activities related to descriptive and exploratory analyses, predictive modeling, machine learning, microsimulation, text analytics, natural language processing, social network analysis, computer vision, and interactive data visualizations Assist in expanding our data science business: participate in meetings with clients (internal and external), assist in framing projects and designing solutions based on client needs and problems to be solved Create internal and publicly available data products and tools Communicate results through presentations and reports for clients, internal staff, scientific journals, professional conferences, and contributions to open source projects Collaborate with teams in proposal writing Participate in professional development and scientific stature efforts
+
+Qualifications
+Degree in computer science, data science, advanced analytics, statistics, applied mathematics, engineering, operations research, economics or related quantitative field A master’s degree and a minimum of 1 year of relevant experience Experience outside of a classroom environment with any of these: predictive modeling, AI, machine learning, text analytics/NLP, forecasting, optimization, computer vision, and microsimulation modeling Strong interpersonal and collaboration skills - strong oral and written communication skills and presentation skills, as evidenced by publications, conference presentations, blog posts, videos, or cover letter Experience with modern open-source software ecosystems used in advanced analytics, software development for data science applications, and data visualization, such as: Python, R, and Javascript Experience with SQL Experience accessing, extracting, integrating, creating pipelines, and analyzing data from a wide variety of sources (e.g., relational databases, text and unstructured data, sensor data, social media data, image and video data, streaming data). Experience using git for shared version control and collaboration Ability to quickly learn new open-source software An analytical mindset for solving problems Experience with interactive data visualization methods A strong sense of conceptual and visual design and creative problem solving Experience navigating and scripting in a Unix command line environment Experience with containerization technologies (Docker) Familiarity with traditional RDBMS setup and administration, including MySQL, PostgreSQL, and SQLite Experience in cluster and cloud computing environments Experience working in with agile software development methodologies Subject matter expertise in any of these: public health, bioinformatics, criminal and social justice, public safety, education and workforce, survey science, environment, food safety, and engineering.
+
+
+General Motors
+
+
+
+Our data scientists \ analysts are creative problem solvers involved in close interaction with the entire CORE scrum team, development team leaders, business team members and other members of the extended IT development team. Our role will demand a high level of design and data engineering \ analytics to implement and deliver new insights and machine learning models. There will be ample opportunities to expand on your technical experience, with extensive exposure to the GM business teams and processes. Applied Data Scientists provide leadership and technical expertise to enable multi-layered solutions that comprehend and specify business, application, data and infrastructure designs. The ideal candidate for this role will possess a passion for technology and a desire to improve our application portfolio while maintaining high quality and flexibility. Applicants should have strong core data \ code skills and some additional technical skills and proven track record with: Build predictive models and machine-learning algorithms Analyze large amounts of information to discover trends and patterns Undertake preprocessing of structured and unstructured data Monitor and sustain model effectiveness Combine models through ensemble modeling Present complex information using data visualization techniques Propose solutions and strategies to business challenges that drive business impact Agile Development Techniques Database experience with a Relational Database Management Systems (Postgres, SQL, Oracle, or similar)
+
+Additional Job Description
+
+Minimum Qualifications:
+Bachelor's degree in mathematics, computer science or related field, or, equivalent combination of education and recent, relevant work experience At least 3 years experience in one or more core analytical tools / suites / languages such as Python, R, Spark Scala, Jupyter Notebooks, Azure DevOps\MLOps and understand their limitations Python proficiency required (Sklearn, numpy), PyTorch, Caffe, CNTK, or TensorFlow framework Experience or knowledge with some or all of the following toolswould be a plus: Exposure to ISO 15118-20, OVGIP, DERMS, V2X, V2G, V2I Development of innovative product concepts and high-level design for distributed battery resources, energy generation \ distribution Experience in modern hyperscale ML pipelines including technologies such as Kubernetes, Spark, DASK, Docker, and Argo Applying machine learning methodology, with emphasis on applying and integrating machine learning with traditional analytic methods Manipulating high-volume, high-dimensionality data from varying sources to highlight patterns, anomalies, relationships, and trends with machine learning techniques Modeling data abstractions employing multiple non-linear mathematical and statistical modeling approaches
+
+
+
+
+
+
+
+
+
+
+NIKE INC
+4.2
+Associate Data Scientist
+Yamhill, OR
+$63K - $117K (Glassdoor est.)
+More
+Become a Part of the NIKE, Inc. Team
+
+
+
+NIKE, Inc. does more than outfit the world’s best athletes. It is a place to explore potential, obliterate boundaries and push out the edges of what can be. The company looks for people who can grow, think, dream and create. Its culture thrives by embracing diversity and rewarding imagination. The brand seeks achievers, leaders and visionaries. At NIKE, Inc. it’s about each person bringing skills and passion to a challenging and constantly evolving game.
+Within North America Marketplace Operations we are transforming into a data driven fulfillment network focused on inventory flexibility, and optimization while ensuring Nike delivers an elevated experience to all its customers and consumers. Ensuring we can support our highest growth areas of the business while improving our service levels across all channels, and changing the way we work provides new challenges every day, while providing massive opportunity for innovation and personal growth.
+
+
+WHO WE ARE LOOKING FOR
+
+We need an ambitious and enthusiastic Data Scientist to join our Insights & Analytics team. You are an extraordinary, driven teammate with a curiosity for all things data, and while you rely on data to prove your point, you love to think creatively to solve problems. You build models and algorithms to solve business problems, deliver insights, and drive recommendations. You thrive in an entrepreneurial environment, and you are excited by the challenge of building something from the ground up. You ask questions, are continually learning as well as finding opportunities to share knowledge with others. You are a strong communicator who is endlessly curious, takes pride in hard work and is committed to rapidly advancing your knowledge and expertise.
+
+WHAT YOU WILL WORK ON
+
+As an Associate Data Scientist, you will work with the Marketplace Operations Insights & Analytics team to ensure Nike delivers on our customer and consumer promises, while driving growth in the business using data. You will build analytical tools for use in optimizing our supply chain, predictive models to allow us to plan vs. react, tune models that optimize inventory placement, seek out and introduce next generation data and analytical tools into the business including AI and ML, and transform ad hoc analyses into scalable solutions and tools that can provide repeatable insights for the business. You will analyze and profile available, reliable and relevant data (internal and external) with guidance from experienced scientists, and clean, prepare and verify the integrity of data for analysis. You’ll also track model accuracy, ensuring model relevance and reliability. As a member of Nike’s Marketplace Operations Insights & Analytics team, you will work alongside experienced analytics and supply chain professionals passionate about driving operational efficiency and better serving athletes*. You will be reporting into the North America Marketplace Operations Analytics leader, liaising closely with business strategy, Marketplace Operations account teams, planning functions, and Logistics (DC & Transportation) teams as well as product squads consisting of senior data scientists and engineers. You will collaborate with other data scientists across teams to problem solve and share best practices.
+
+WHAT YOU BRING
+
+Bachelor’s degree in Mathematics, Statistics, Data Science, or quantitative field; or equivalent combination of education and experience 1-3 years of relevant professional experience Strong ability to solve complex analytical problems and take a new perspective on existing solutions Strong understanding of common coding languages (Python, SQL, R) with demonstrated ability to learn new skills or apply skills in new environments Strong quantitative and analytics background, with experience in statistical modeling, and visualization. Exposure to or experience in data engineering, data science, or operations research/analysis preferred Strong knowledge of solution and technical design Basic understanding of data structures and algorithms Demonstrated ability to work well with internal and external customers Strong collaboration skills with a demonstrated ability of working well within a team
+
+
+
+
+
+NIKE INC
+4.2
+Data Scientist
+Beaverton, OR
+Employer Provided Salary:$117K
+More
+Become a Part of the NIKE, Inc. Team
+
+
+WHO ARE WE LOOKING FOR?
+
+
+We are looking for a Data Scientist to join the Advanced Analytics team within North America. This role will be part of an agile squad responsible for leveraging predictive and prescriptive analytics to forecast consumer demand, enhance decision making and drive to action against our strategic priorities. WHAT WILL YOU WORK ON? If this is you, you will be part of an Advanced Analytics squad that delivers scalable models to power demand sensing and enable critical investment decisions at Nike. Specifically, you will: Develop new algorithms and improve existing approaches based on statistical/econometric methods, machine learning techniques and solutions to forecast consumer demand and determine optimal level of investment in various stages of the supply chain. Assess business requirements and constraints to make trade-off recommendations between speed and accuracy of alternative solution approaches. Identify and apply appropriate methods to acquire, explore, cleanse, and fuse data from different sources. Facilitate the planning, scheduling and value measurement of the work to meet timeline targets and success criteria. Support the adoption of analytic products through effective storytelling and collaboration with key partners. Share knowledge with others on the team; continue to adapt or develop new methods and learn new software packages as available in the literature and recent publications.
+
+
+
+WHAT YOU WILL BRING?
+
+
+Bachelor's degree or higher in Statistics, Mathematics, Computer Science, Quantitative Social Science, Engineering, Physics or related field; or equivalent combination of education and experience and training 2+ years of related industry experience Will accept suitable combination of education and experience Experience in building, training, scoring, tuning and maintaining predictive models in production at enterprise scale and familiarity with mainstream packages relevant to managing all stages of Data Science/Analytics lifecycle. Intermediate to advanced skills in programming languages (particularly R, Python and SQL) and ability to apply them for data acquisition, preprocessing, modeling and monitoring. Familiarity with the wide range of data science/analytics software tools (e.g. Jupyter Notebook, SQL consoles, Hadoop, Spark) and cloud computing platforms (e.g. Amazon Web Services). Experience with the Agile development process and proven ability to prepare a project plan, communicate the plan to the team and break the work down to trackable tasks. Proven track record of working cross functionally and critically evaluate complex business information from multiple perspectives, including questioning assumptions and validity. Excellent written and verbal communication skills, including ability to develop and deliver presentation.
+
+Open to remote work, except cannot work in South Dakota, Vermont, and West Virginia. These candidates will be required to relocate.
+
+
+For employees based in Colorado, this position starts at $117,000 per year. Information about benefits can be found here.

@@ -1,5 +1,8 @@
 # Scraping Data Scientist Job Postings with Python and Creating Skill Wordclouds
 
+Check out the GH Pages Version for a prettier notebook and labeled figures! https://kendallfrimodig.github.io/nlp-data-science-jobs/
+
+
 #### Potentially useful tool for resume tweaking, optimization
 
 Described here is a method for identifying common themes from a focused set of job listings that you might have bookmarked, after doing some basic scans via the qualifications or if the company mission seemed exciting. **note** a small investment into manual methods, mostly in Atom and Excel is required - but many boards such as linkedin disallow webscraping and few have API's that are readily approachable. I've tried both glassdoor and indeed API's and neither are a walk in the park.
